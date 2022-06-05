@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 django = "*"
+pillow = "*"
+whitenoise = "*"
+gunicorn = "*"
+psycopg2 = "*"
+pytz = "*"
+django-crispy-forms = "*"
+djangorestframework = "*"
 
 [dev-packages]
 
