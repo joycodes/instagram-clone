@@ -10,7 +10,7 @@
 ***
 
 ## Description
->An instagram-clone with features such as upload image, like and unlike, comment on a posted image, have suggestions of people to follow, you can edit bio in profile view page, update profile picture and view number of follows and folowers on your profile page. You can log out by clicking on settings icon in profile view.
+>An instagram-clone with features such as upload image, like and unlike, comment on a posted image, have suggestions of people to follow, edit bio in profile view page, update profile picture and view number of follows and followers on your profile page. You can log out by clicking on settings icon in profile view.
 ---
 
 ## User Story  
