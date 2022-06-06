@@ -12,6 +12,10 @@ psycopg2 = "*"
 pytz = "*"
 django-crispy-forms = "*"
 djangorestframework = "*"
+python-decouple = "*"
+dj-database-url = "*"
+django-heroku = "*"
+django-bootstrap4 = "==22.1"
 
 [dev-packages]
 
