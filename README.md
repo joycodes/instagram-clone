@@ -40,7 +40,7 @@ Move to the folder and install requirements
   ```
 Setup Configurations and  Database
   ```bash 
-  python3 manage.py makemigrations gallery 
+  python3 manage.py makemigrations instaclone 
   ``` 
 Running the application
   ```bash
