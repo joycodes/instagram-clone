@@ -16,6 +16,7 @@ python-decouple = "*"
 dj-database-url = "*"
 django-heroku = "*"
 django-bootstrap4 = "==22.1"
+crispy-bootstrap5 = "*"
 
 [dev-packages]
 

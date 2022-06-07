@@ -39,12 +39,12 @@ h1{
 }
 .instaicon{
     display: inline-block;
-    background-image: url('https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/96319a506a03.png');
+    background-image: url(/static/images/96319a506a03.png);
     padding:0px;
 }
 .instaglyph{
     display: inline-block;
-    background-image: url(https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/868a059b8fc8.png);
+    background-image: url(/static/images/868a059b8fc8.png);
     margin:8px;
 }
 .modal-body a{
