@@ -17,6 +17,7 @@ dj-database-url = "*"
 django-heroku = "*"
 django-bootstrap4 = "==22.1"
 crispy-bootstrap5 = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
