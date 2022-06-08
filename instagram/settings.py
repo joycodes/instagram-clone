@@ -161,7 +161,7 @@ LOGIN_REDIRECT_URL = 'index'
 LOGOUT_REDIRECT_URL = 'login'
 
 
-EMAIL_USE_TLS=config('EMAIL_USE_TLS', cast=bool)  
+EMAIL_USE_TLS=config=True
 EMAIL_HOST=config('EMAIL_HOST')
 EMAIL_PORT=config('EMAIL_PORT',cast=int)
 EMAIL_HOST_USER=config('EMAIL_HOST_USER')  
