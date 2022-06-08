@@ -59,8 +59,8 @@ Open the application on your browser
 
 
 ## Super User Credentials
-username - FaithKilonzi
-password - Kilonzi!234
+>* username - FaithKilonzi
+>* password - Kilonzi!234
 ---
 
 ## Dependencies
