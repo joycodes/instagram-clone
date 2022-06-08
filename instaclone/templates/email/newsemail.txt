@@ -1,0 +1,3 @@
+Hello {{username}}
+
+Welcome to Insta-Clone. We value and appreciate the fact that you have chosen to join our community.
