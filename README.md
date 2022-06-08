@@ -57,6 +57,10 @@ Testing the application
 Open the application on your browser 
 [127.0.0.1:8000](http://127.0.0.1:8000/)
 
+
+## Super User Credentials
+username - FaithKilonzi
+password - Kilonzi!234
 ---
 
 ## Dependencies
