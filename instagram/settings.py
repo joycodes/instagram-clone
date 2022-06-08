@@ -19,7 +19,7 @@ import django_heroku
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-MODE='prod'
+MODE='dev'
 
 
 
@@ -163,7 +163,7 @@ LOGOUT_REDIRECT_URL = 'login'
 
 EMAIL_USE_TLS=True
 EMAIL_HOST=config('EMAIL_HOST', cast=str)
-EMAIL_PORT=config('EMAIL_PORT',cast=int, cast=str)
+EMAIL_PORT=config('EMAIL_PORT',cast=int)
 EMAIL_HOST_USER=config('EMAIL_HOST_USER', cast=str)  
 EMAIL_HOST_PASSWORD=config('EMAIL_HOST_PASSWORD', cast=str)  
 
