@@ -2,7 +2,6 @@
 
 # Instagram Clone
 
-
 ---
 
 ## Author
