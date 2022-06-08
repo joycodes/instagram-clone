@@ -10,6 +10,8 @@ from django.views.generic import RedirectView
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import authentication, permissions
+from .email import send_welcome_email
+
 
 
 # Create your views here.
@@ -20,7 +22,10 @@ def signup(request):
             form.save()
             username = form.cleaned_data.get('username')
             raw_password = form.cleaned_data.get('password1')
-            
+            email = form.cleaned_data.get('email')
+            recipient = User(username=username, email=email)
+            send_welcome_email(username, email)
+
             user = authenticate(username=username, password=raw_password)
             login(request, user)
             return redirect('index')
