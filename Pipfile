@@ -5,8 +5,14 @@ name = "pypi"
 
 [packages]
 django = "*"
-whitenoise = "*"
+python-decouple = "*"
+dj-database-url = "*"
+django-heroku = "*"
+psycopg2 = "*"
+djangorestframework = "*"
 pillow = "*"
+django-bootstrap4 = "*"
+django-crispy-forms = "*"
 gunicorn = "*"
 
 [dev-packages]
