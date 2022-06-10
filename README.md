@@ -18,7 +18,7 @@
 
 ## User Story  
   
-* Sign in to the application to start using.
+* Subscribe (confirmation email sent to primary inbox or spam) and sign in to the application to start using.
 * Upload my pictures to the application.
 * See my profile with all my pictures.
 * Follow other users and see their pictures on my timeline.
