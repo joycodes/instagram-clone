@@ -11,8 +11,8 @@
 ## Description
 >A clone of instagram that resembles the functionalities of instagram.
 
-![image](./static/images/screenig.png)
-![image](./static/images/timeline.png)
+![image](./static/images/loginscreen.png)
+![image](./static/images/timeline2.png)
 
 
 ---
