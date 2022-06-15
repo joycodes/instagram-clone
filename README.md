@@ -12,7 +12,7 @@
 >A clone of instagram that resembles the functionalities of instagram.
 
 ![image](./static/images/loginscreen.png)
-![image](./static/images/timeline2.png)
+![image](./static/images/userpic.png)
 
 
 ---
